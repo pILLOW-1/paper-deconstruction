@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Deconstruction"
+  short_description: "Deconstruct papers using the 5-dimension framework for top-tier conference writing"
+  default_prompt: "Analyze this paper using the problem→principle→method→evidence closed-loop framework"
